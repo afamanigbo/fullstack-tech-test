@@ -19,8 +19,8 @@ As a general rule, we allow three days from the date that you receive these inst
 
 ## Opinionated Bridge Opinions
 
-* There are a lot of ways to write software and many of them are good. At Bridge, we have our share of opinions about how we like to build software that you might want to take into consideration as you work on this exercise:
-Good naming matters. A lot.
+There are a lot of ways to write software and many of them are good. At Bridge, we have our share of opinions about how we like to build software that you might want to take into consideration as you work on this exercise:
+* Good naming matters. A lot.
 * “When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.” --Kent Beck
 * Being easily testable is itself a design objective - if code is hard to test, refactor it until it is easy to test.
 
